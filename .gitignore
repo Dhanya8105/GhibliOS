@@ -1,0 +1,7 @@
+*.o
+*.bin
+*.iso
+qemu.log
+iso/
+output*.wav
+assets/*.pcm
